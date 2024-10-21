@@ -1,3 +1,3 @@
-# Aluraflix
+# Leflix
 
-https://leticiaguimaraess.github.io/Aluraflix/
+https://leticiaguimaraess.github.io/Leflix/
