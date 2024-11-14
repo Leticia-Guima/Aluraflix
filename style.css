@@ -5,9 +5,10 @@ body{
     font-family: "STIX Two Text", serif;
     margin-bottom: 100px;
 }
+
 header{
-    border-bottom: 3px solid rgb(247, 196, 247);
+    border-bottom: 3px solid rgb(211, 178, 211);
+    color: white;
     padding: 20px;
-    color: rgb(180, 241, 221);
     font-size: 35px;
 }
