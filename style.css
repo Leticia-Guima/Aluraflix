@@ -5,10 +5,22 @@ body{
     font-family: "STIX Two Text", serif;
     margin-bottom: 100px;
 }
-
 header{
     border-bottom: 3px solid rgb(216, 106, 216);
     color: rgb(148, 215, 219);
     padding: 20px;
+    font-size: 35px;
+}
+.chamada{
+    background: rgb(230, 12, 230);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+h1{
     font-size: 35px;
 }
