@@ -1,14 +1,14 @@
 body{
-    background: rgb(201, 74, 201);
-    color: aliceblue;
+    background: rgb(138, 29, 138);
+    color: rgb(178, 206, 231);
     margin:0px ;
     font-family: "STIX Two Text", serif;
     margin-bottom: 100px;
 }
 
 header{
-    border-bottom: 3px solid rgb(211, 178, 211);
-    color: white;
+    border-bottom: 3px solid rgb(216, 106, 216);
+    color: rgb(148, 215, 219);
     padding: 20px;
     font-size: 35px;
 }
